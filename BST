@@ -115,3 +115,94 @@ int main() {
 }
 }
 }
+
+output
+--- Binary Search Tree ---
+1. Insert
+2. Delete
+3. Inorder
+4. Preorder
+5. Postorder
+6. Exit
+Enter choice: 1
+Enter value to insert: 50
+
+--- Binary Search Tree ---
+1. Insert
+2. Delete
+3. Inorder
+4. Preorder
+5. Postorder
+6. Exit
+Enter choice: 1
+Enter value to insert: 89
+
+--- Binary Search Tree ---
+1. Insert
+2. Delete
+3. Inorder
+4. Preorder
+5. Postorder
+6. Exit
+Enter choice: 1
+Enter value to insert: 67
+
+--- Binary Search Tree ---
+1. Insert
+2. Delete
+3. Inorder
+4. Preorder
+5. Postorder
+6. Exit
+Enter choice: 4
+Preorder: 50 89 67
+
+--- Binary Search Tree ---
+1. Insert
+2. Delete
+3. Inorder
+4. Preorder
+5. Postorder
+6. Exit
+Enter choice: 5
+Postorder: 67 89 50
+
+--- Binary Search Tree ---
+1. Insert
+2. Delete
+3. Inorder
+4. Preorder
+5. Postorder
+6. Exit
+Enter choice: 3
+Inorder: 50 67 89
+
+--- Binary Search Tree ---
+1. Insert
+2. Delete
+3. Inorder
+4. Preorder
+5. Postorder
+6. Exit
+Enter choice: 2
+Enter value to delete: 67
+
+--- Binary Search Tree ---
+1. Insert
+2. Delete
+3. Inorder
+4. Preorder
+5. Postorder
+6. Exit
+Enter choice: 5
+Postorder: 89 50
+
+--- Binary Search Tree ---
+1. Insert
+2. Delete
+3. Inorder
+4. Preorder
+5. Postorder
+6. Exit
+Enter choice: 6
+
